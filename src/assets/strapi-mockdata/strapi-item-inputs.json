@@ -1,0 +1,169 @@
+{
+    "version": 2,
+    "data": {
+      "api::item.item": {
+        "2": {
+          "id": 2,
+          "name": "White Sweater TShirt",
+          "shortDescription": "clothing",
+          "price": 15,
+          "category": "topRated",
+          "image": "andreea-chidu-FPV2_FbNHoE-unsplash.jpeg"
+          
+        },
+        "3": {
+          "id": 3,
+          "name": "Evening Text Shirt",
+          "shortDescription": "clothing",
+          "price": 20,
+          "category": "bestSellers",
+          "image": "uji-kanggo-gumilang-sMn0sxR8v2E-unsplash.jpeg"
+          
+        },
+        "4": {
+          "id": 4,
+          "name": "White Dress Light",
+          "shortDescription": "clothing",
+          "price": 60,
+          "category": "topRated",
+          "image": "raoul-croes-q3NX2NbbYmI-unsplash.jpeg"
+          
+        },
+        "5": {
+          "id": 5,
+          "name": "Floral Shirt",
+          "shortDescription": "clothing",
+          "price": 70,
+          "category": "topRated",
+          "image": "mohamad-javad-barakouhi-rJvs1om1G0o-unsplash.jpeg"
+         
+        },
+        "6": {
+          "id": 6,
+          "name": "Black Graphic T Shirt",
+          "shortDescription": "clothing",
+          "price": 30,
+          "category": "bestSellers",
+          "image": "patrik-velich-v9eKhg8YaOA-unsplash.jpeg"
+          
+        },
+        "7": {
+          "id": 7,
+          "name": "Black Text T Shirt",
+          "shortDescription": "clothing",
+          "price": 15,
+          "category": "topRated",
+          "image": "faith-yarn-jX2cntCbrAo-unsplash.jpeg"
+          
+        },
+        "8": {
+          "id": 8,
+          "name": "Black and White Striped Pants",
+          "shortDescription": "clothing",
+          "price": 50,
+          "category": "newArrivals",
+          "image": "alex-hddife-6wWiZlA2n0Q-unsplash.jpeg"
+          
+        },
+        "9": {
+          "id": 9,
+          "name": "Road T Shirt White",
+          "shortDescription": "clothing",
+          "price": 20,
+          "category": "topRated",
+          "image": "christian-bolt-VW5VjskNXZ8-unsplash.jpeg"
+         
+        },
+        "10": {
+          "id": 10,
+          "name": "White Dress Shirt Formal",
+          "shortDescription": "clothing",
+          "price": 50,
+          "category": "topRated",
+          "image": "laura-chouette-LXHyNufB8Ds-unsplash.jpeg"
+          
+        },
+        "11": {
+          "id": 11,
+          "name": "Text Black T Shirt Short Sleeve",
+          "shortDescription": "clothing",
+          "price": 20,
+          "category": "bestSellers",
+          "image": "mohammad-faruque-0ZYPu-nLOwU-unsplash.jpeg"
+      
+        },
+        "12": {
+          "id": 12,
+          "name": "Heart Break T Shirt Graphic",
+          "shortDescription": "clothing",
+          "price": 15,
+          "category": "bestSellers",
+          "image": "florencia-simonini-PDZAMYvduVk-unsplash.jpeg"
+          
+        },
+        "13": {
+          "id": 13,
+          "name": "Stylish Black Top",
+          "shortDescription": "clothing",
+          "price": 40,
+          "category": "newArrivals",
+          "image": "suhendro-purnomo-f0oLkvrnVOo-unsplash.jpeg"
+          
+        },
+        "14": {
+          "id": 14,
+          "name": "Formal Dress Shirt Stylish",
+          "shortDescription": "clothing",
+          "price": 50,
+          "category": "topRated",
+          "image": "engin-akyurt-jaZoffxg1yc-unsplash.jpeg"
+          
+        },
+        "15": {
+          "id": 15,
+          "name": "Au Revor T Shirt",
+          "shortDescription": "clothing",
+          "price": 15,
+          "category": "newArrivals",
+          "image": "laura-chouette-q4Wrsho-t2E-unsplash.jpeg"
+          
+        },
+        "16": {
+          "id": 16,
+          "name": "Graphic Basketball T Shirt Urban",
+          "shortDescription": "clothing",
+          "price": 20,
+          "category": "newArrivals",
+          "image": "kevin-gil-musngi-eCikWiyY6IY-unsplash.jpeg"
+    
+        },
+        "17": {
+          "id": 17,
+          "name": "White Tank T Shirt",
+          "shortDescription": "clothing",
+          "price": 25,
+          "category": "newArrivals",
+          "image": "kai-gabriel-2s3GhhJz2uY-unsplash.jpeg"
+          
+        },
+        "18": {
+          "id": 18,
+          "name": "Grey T Shirt Short Sleeve Casual",
+          "shortDescription": "clothing",
+          "price": 15,
+          "category": "bestSellers",
+          "image": "diego-vedita-PW1EOs9R-Xw-unsplash.jpeg"
+          
+        },
+        "19": {
+          "id": 19,
+          "name": "Grey Granny Sweater",
+          "shortDescription": "clothing",
+          "price": 40,
+          "category": "bestSellers",
+          "image": "christian-bolt-WhnbNX5yeJo-unsplash.jpeg"
+          
+        }
+      }
+    }
+  }
